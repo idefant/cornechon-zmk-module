@@ -1,0 +1,11 @@
+file_format: "1"
+id: cornechon
+name: Cornechon
+type: shield
+url: https://github.com/idefant/cornechon
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - cornechon_left
+  - cornechon_right
