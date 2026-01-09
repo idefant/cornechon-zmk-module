@@ -14,11 +14,11 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.3.0
       import: app/west.yml
     - name: cornechon-zmk-module
       remote: idefant
-      revision: main
+      revision: v0.3.0
   self:
     path: config
 ```
